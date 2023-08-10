@@ -15,9 +15,9 @@ const startCounter = (valueRef, maxValue) => {
 };
 
 onMounted(() => {
-  startCounter(projectNumbers, 400);
-  startCounter(workingHoursSpent, 700);
-  startCounter(happyClients, 300);
+  startCounter(projectNumbers, 800);
+  startCounter(workingHoursSpent, 1700);
+  startCounter(happyClients, 450);
 });
 </script>
 
